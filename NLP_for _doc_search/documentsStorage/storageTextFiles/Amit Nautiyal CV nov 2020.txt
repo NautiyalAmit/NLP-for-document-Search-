@@ -1,0 +1,60 @@
+                                                        WORK EXPERIENCE
+                            AMIT NAUTIYAL              DATA ENGINEERING INTERN
+                                                       Robert Bosch| Abstatt, DE | March 2020- Sep 2020
+                                                          Responsible for designing and developing the E2E Data Engineering
+                           DATA SCIENCE MASTERS           platform for Chassis Control and Automation Driving Unit using
+                           STUDENT AT TU BERLIN           MDF/MF4 data.
+                                                          Designed and Developed from scratch Feature Extractor and Tag
+                                                          generator: A microservice architecture for big Data platform, for
+    CAREER OBJECTIVE                                      Jaguar/Land Rover Autonomous Driving unit.
+                                                       SOFTWARE ENGINEER
+                                                       Thomson Reuters| Bangalore, IND| February 2019 - July 2019
+Masters student pursuing majors in Data Science.
+Having 3 years of experience in Applied AI, ML, Data      Developer at cloud Center of Excellence where I Led, Designed, and
+Analysis, Cloud and Product Engineering. Looking for      developed various algorithms for cost-cutting and automating the
+                                                          process for optimizing business metrics through automated algorithms.
+Internships and related work in the field of Data
+                                                          Designed E2E ML Solutions from Data Analysis to Deploying models in
+Science.
+                                                          AWS and Azure.
+                                                       APPLICATION DEVELOPER 1
+     CORE SKILLS                                       DXC Technology | Bangalore, IND| August 2016 - February 2019
+                                                         Developer at Agility Hybrid Cloud Platform's R&D Product
+ PROGRAMMING : Java, python                              Engineering team responsible for developing the Cloud Adapters like
+ PYTHON ML LIBRARIES: numpy,pandas,Scikit-               Vsphere, Microsoft AzureRM, IPAM Bluecat, and AWS: S3,CLOUD
+ Learn, SciPy, matplotlib, seaborn, OpenCV,              FORMATION,LAMBDA.
+ mlflow                                                  Led a team of 5 for AzureRM Template Adapter Development.
+ PYTHON LIB's: flask,Flask-RESTful,Django,
+ DEEP LEARNING: TensorFlow, NLTK
+ BIG DATA: Hadoop, Spark,HBase,SQL,Hive                   SCHOOLS ATTENDED
+ ORCHESTRATION TOOLS: Kubernetes, Docker
+ CLOUD: AWS,Azure,vSphere, Bluecat                     TECHNICAL UNIVERSITY BERLIN | BERLIN ,DE
+ CLOUD PYTHON LIB's: Boto,Moto, Cloud                    MS Informatik(Majors-ML /AI) | 2019-2021(expected)
+ Custodian                                                 -Student Ambassador at Intel AI Academy.
+ DevOps: Jenkins,Logstash, ElasticSearch,
+                                                       GRAPHIC ERA UNIVERSITY | DEHRADUN ,IND
+ Airflow, RabbitMQ, zookeeper, Git
+                                                          B.Tech in Computer Science | 2011-2015
+ RESTfull: Micro-services Architecture ,Postman
+ OTHERS: Design Patterns,Deep learning to
+ solve NLP tasks, Automation                                PROJECTS
+ INTERESTS: ML, statistics, NLP, Deep Learning,
+ Recommendation systems, Information retrieval            Data Science Application-Feature Selection-Implement feature selection
+                                                          strategy that yields a model with high data error robustness.
+                                                          Twitter Clone- Web Application with Twitter's existing features.
+   CONNECT WITH ME                                        Designed using Java, Servlets, SQL.
+  Email: de.amit.nautiyal@gmail.com                       Automatic Traffic Estimation- ATE application using Image processing.
+  amit.nautiyal@campus.tu-berlin.de                       designed using Image processing Algorithms and MatLab.
+  Address: Siegmunds Hof 2, 10555, Berlin,DE              Data Analysis On Music Preferences- Analyse Spotify's top songs
+  Phone: +49 15211577025                                  characteristics
+  DOB: 27.04.1993
+  Kaggle: // nautiyalamit    LinkedIn: // amitnautiyal     AWARDS & CITATIONS
+  Github: // NautiyalAmit
+                                                         2016-2018 :Awarded 4 spot Awards at DXC India
+                                                         2014 :top 10/3000 HOD Internship Fellowship
+    LANGUAGES                                            2012 : winner i3india Robotics Winner
+                                                         2011-2015 : Awarded Chairman’s Scholarship Holder at GEU.
+English : Native                                         [1] A Reviewal On Entropy And Peculiar Operations In Image
+German: A1 proficiency                                   Processing, IJSTR, VOLUME 6, ISSUE 08, AUGUST 2017: ISSN 2277-
+Hindi: Native
+                                                         8616
